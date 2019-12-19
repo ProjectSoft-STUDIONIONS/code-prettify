@@ -1,0 +1,11 @@
+{
+    "title": "Bower Google Code Prettify",
+    "author": "ProjectSoft",
+    "name": "ps-google-code-prettify",
+    "description": "Bower package for latest Google Code Prettify release - https://github.com/google/code-prettify",
+    "version": "1.0.0",
+    "main" : [
+        "src/prettify.js",
+        "src/prettify.css"
+    ]
+}
